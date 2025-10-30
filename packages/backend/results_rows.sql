@@ -1,0 +1,1 @@
+INSERT INTO "public"."results" ("created_at", "settings", "name", "score", "id") VALUES ('2025-10-30 22:57:26.549773+00', '{"jumpVelocity":0.3,"obstacleSpeed":0.004,"gravity":-0.01,"spawnMin":1000,"spawnMax":2000}', 'sadsadsa', '5', 'fdf0f687-faa4-4087-a867-9c52dc0e49c7');
